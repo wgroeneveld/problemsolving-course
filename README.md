@@ -1,2 +1,2 @@
-# problemsolving-course
-Cultivating the right problem solving skills
+# Cultivating the right problem solving skills
+
