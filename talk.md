@@ -15,7 +15,7 @@ ___
 * Why are we talking about **obvious things**?
 * How to **acknowledge** you're in for it
 * How to **find** problems?
-* How to '**fix**'' them?
+* How to '**fix**' them?
 * Going **beyond** your fix
 
 Including demo's.
