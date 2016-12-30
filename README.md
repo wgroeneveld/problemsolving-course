@@ -2,6 +2,8 @@
 
 ## [On to the slides!](https://wgroeneveld.github.io/problemsolving-course/)
 
+Thank you [jsanz](https://github.com/jsanz/cartodb-slides-template) for the revealjs Markdown blueprint!
+
 ## Abstract
 
 When you start working as a software developer somewhere, chances are you'll feel great and write some completely awesome code which proudly has your name labeled on when committing. After a while, problems start to head your way. Things start to break - or maybe never worked in the first place. What should you do? How do you fix stuff? Wait, how do you find out what's wrong? And where to fix it? After these steps, you can try to ask yourself how to fix it. And how to prevent it from ever happening again. 
