@@ -20,6 +20,10 @@ I always conclude the slides by doing some kind of mob-coding. Usually, as it's 
 
 So, we talk about this all the time but we might dismiss obvious things as "of course I'll write a test" and promptly forget about it. Here comes regression... 
 
+### How difficult would you rate your session?
+
+200 - There's nothing technical about it but it does require you to think so keep your brains preloaded. The demo's are made with C# but don't contain anything fancy - that's not the point here. I don't want to make it too theoretical so lot's of alt+tabbing to VisualStudio. 
+
 ## About Me
 
 Hi! My name is Wouter and passion is my passion. I'm a meta-kind of guy: I like to think about thinking. As a software developer for 10 years, I've seen awesome and despicable code. I've also encountered well-motivated and uninterested people. My mission is to tilt the scale for everyone towards fulfillment by taking control of what you're doing day to day. For us developers that'll be coding and most of all: liking how and what we coded.
