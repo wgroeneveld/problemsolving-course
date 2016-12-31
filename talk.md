@@ -236,6 +236,21 @@ ___
 
 ![](resources/debugging.png)
 
+___
+
+### Draw stuff. Use the whiteboard!
+
+**Simplify** and **generalize**. <br/>
+Visualize links between components. 
+
+**Restate the problem**.
+
+___
+
+### Are you making assumptions?
+
+![](resources/assumptions.jpg)
+
 ---
 
 ## How to fix <i class="fa fa-wrench" aria-hidden="true"></i> problems (1)
@@ -398,13 +413,43 @@ ___
  * Clean code, TDD, ...
  * Communicate! 
 
+___
+
+### Do not, ever, overengineer stuff. 
+
+Never ever ever. Pretty please. 
+
+**Keep it simple**.
+
+Thank me later. 
+
+___
+
+### Do not, ever, copypaste code without knowing what it means. 
+
+> Don't just stand there, do something!
+
+Would become
+
+> Don't just do something, just stand there!
+
+___
+
+### Question technical abilities
+
+Of **yourself** and **your peers**.
+
+Don't intimidate, try to learn and to teach. 
+
+Oh, and never accept technical stuff in functional stories. 
+
 ---
 <!-- .slide: data-background="#85ba62" -->
 ## Thanks!
 
 ___
 
-## Resources
+## Resources <i class="fa fa-link" aria-hidden="true"></i>
 
  * todo url
  * todo url 2
