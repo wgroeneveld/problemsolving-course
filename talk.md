@@ -163,7 +163,7 @@ ___
 ![](resources/pairprogramming.jpg)
 
 <i class="fa fa-book" aria-hidden="true"></i>
-[Extreme Progrmaming Explained](https://www.amazon.com/Extreme-Programming-Explained-Embrace-Change/dp/0321278658)
+[Extreme Programming Explained](https://www.amazon.com/Extreme-Programming-Explained-Embrace-Change/dp/0321278658)
 
 ___
 
