@@ -218,7 +218,7 @@ ___
 
 > We humans have to accept suffering as part of our daily lives. <span style="color: grey;">(Dalai Lama)</span>
 
-Better said as:
+In other words:
 
 > We developers have to accept shitty code as part of our daily jobs. <span style="color: grey;">(W. Groeneveld)</span>
 
