@@ -98,7 +98,7 @@ It might be a bliss.
 
 ___
 
-## The Responsibility Model
+## The Responsibility Process (tm)
 
 [By Christopher Avery](https://www.christopheravery.com/responsibility-process)
 
@@ -360,7 +360,7 @@ ___
 
 We've all been there. 
 
-Solution: see the responsibility model. 
+Solution: see the Responsibility Process (tm). 
 
 ___
 
